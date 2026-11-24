@@ -1,1 +1,0 @@
-# modelo_reciclaje_mobilenet
